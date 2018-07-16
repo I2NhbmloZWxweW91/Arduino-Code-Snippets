@@ -1,2 +1,3 @@
-# Arduino-Code-Snippets
-Arduino Code Snippets (8x8 matrix games, etc) 
+### References :
+-Multi-tasking in Arduino
+-https://playground.arduino.cc/Main/LedControl
