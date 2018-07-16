@@ -1,4 +1,4 @@
 ### References :
--Multi-tasking in Arduino
+- Multi-tasking in Arduino
 
--https://playground.arduino.cc/Main/LedControl
+- https://playground.arduino.cc/Main/LedControl
