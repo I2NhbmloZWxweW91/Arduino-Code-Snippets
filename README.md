@@ -1,4 +1,4 @@
-- SkipBombs Game - [wiki]https://github.com/I2NhbmloZWxweW91/Arduino-Code-Snippets/wiki/SkipBombs-Game
+- SkipBombs Game - [wiki](https://github.com/I2NhbmloZWxweW91/Arduino-Code-Snippets/wiki/SkipBombs-Game)
 
 ### References :
 - Multi-tasking in Arduino
